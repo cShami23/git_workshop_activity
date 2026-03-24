@@ -11,6 +11,6 @@ set CLOCK to 70 Hz
 
 // Complete some polling task
 
-// TODO: Aaron to fix polling task, please delete this comment when fixed
+<<polling task>> // charlie
 
 << Dicks's feature added >> // Done
